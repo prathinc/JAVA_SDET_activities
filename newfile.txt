@@ -1,0 +1,9 @@
+In this exercise,
+
+Create a HashSet named hs.
+Add 6 objects using add() method to the HashSet.
+Then print the size of the HashSet using the size() method.
+Remove an element using the remove() method.
+Also try to remove an element that is not present in the Set.
+Use the contains() method to check if an item is in the Set or not.
+Print the updated set.
